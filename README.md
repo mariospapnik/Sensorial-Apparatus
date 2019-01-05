@@ -17,5 +17,5 @@ Python scripting for Rhino 3D:
       
 Arduino Processing code:
    - SensorialApparatus.ino
-   - Guino_libray.ino
+   - Guino_library.ino
 
