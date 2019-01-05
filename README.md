@@ -1,5 +1,6 @@
 # Sensorial-Apparatus
-Source code of the Thesis Project in Architectural School of AUTH (Aristotle University of Thessaloniki) 
+Source code of the Thesis Project "Sensorial Apparatus"
+in Architectural School of AUTH (Aristotle University of Thessaloniki) (2013)
 Please visit http://www.sensorialapparatus.co.nf for more info
 
 Contents:
