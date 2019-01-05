@@ -16,6 +16,6 @@ Python scripting for Rhino 3D:
     - mapping wav file to points.py
       
 Arduino Processing code:
-   - todos.ino
+   - SensorialApparatus.ino
    - Guino_libray.ino
 
